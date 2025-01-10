@@ -1,5 +1,5 @@
-# gainexplorer.com
-What if financial calculator for Stock and Crypto
+# Gainexplorer.com
+What if financial calculator for Stocks and Cryptos
 
 Saludos al Principe
 
