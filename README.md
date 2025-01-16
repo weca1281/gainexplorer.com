@@ -18,3 +18,11 @@ Saludos al Principe
 - [@weca1281](https://www.github.com/weca1281)
 
 
+### Dev setup
+
+1. install the requirements.txt however you know how to (pipenv, uv, raw dogging with pip, whatever)
+1. run the following:
+
+```bash
+streamlit run app.py
+```
