@@ -1,0 +1,19 @@
+[browser]
+
+# Whether to send usage statistics to Streamlit.
+# Default: true
+gatherUsageStats = false
+
+
+[server]
+
+# Automatically rerun script when the file is modified on disk.
+# Default: false
+runOnSave = true
+
+
+[theme]
+
+# The preset Streamlit theme that your custom theme inherits from.
+# One of "light" or "dark".
+base = "dark"
